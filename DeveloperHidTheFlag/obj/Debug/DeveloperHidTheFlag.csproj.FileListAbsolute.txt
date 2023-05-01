@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\bin\Debug\DeveloperHidTheFlag.exe.config
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\bin\Debug\DeveloperHidTheFlag.exe
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\bin\Debug\DeveloperHidTheFlag.pdb
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.exe
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.pdb
+C:\Users\ASUS\source\repos\DeveloperHidTheFlag\DeveloperHidTheFlag\obj\Debug\DeveloperHidTheFlag.Form1.resources
